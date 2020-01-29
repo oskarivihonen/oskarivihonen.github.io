@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Avaruusprojekti"
-subtitle: "Rakensimme pienoismallin aurinkokunnasta"
+subtitle: "Miten rakensimme pienoismallin aurinkokunnasta?"
 date:   2020-01-29 18:35:25 +0200
 categories: projektit
-background: '/PATH_TO_IMAGE'
+background: '/img/posts/aurinkokunta_pienoismalli.jpeg'
 ---
 Tammi- ja helmikuun 2020 aikana meillä on koulussa ympäristöopissa avaruusaiheinen jakso. Kaikki kakkosluokkalaiset saivat kotitehtäväksi rakentaa pienoismallin aurinkokunnasta perheenjäsenien tai kavereiden kanssa. Työ piti palauttaa koululle viimeistään 31. päivä tammikuuta.
 
@@ -29,5 +29,3 @@ Sen jälkeen, kun olimme kaivertaneet akryylilasiin kiertoradat ja asteroidivyö
 Valaistustestissä kuitenkin huomasimme, että valaistus ei ollut riittävän hyvä. Isi suunnitteli nopeasti lisävalaisimen 3D-tulostettavaksi. Mittasimme, että se pitää laittaa suurin piirtein kohtisuoraan auringon alle, jotta kiertoradat tulevat näkyviin. Isi joutui irrottamaan kiinni alustaan liimatun LED-valojen ohjausyksikön ja juottamaan siihen kiinni johdot uudelle valaisimelle. Hän kytki valaisimet rinnan.
 
 Ennen kouluun vientiä lisäsimme vielä malliin linkin tälle verkkosivulle.
-
-Oskari.
