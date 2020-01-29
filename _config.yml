@@ -22,8 +22,8 @@ title: Oskarin projektit
 email: oskari.vihonen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Tällä sivustolla pidetään kirjaa Oskarin projekteista!
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://oskarivihonen.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  oskarivihonen
 
 # Build settings
