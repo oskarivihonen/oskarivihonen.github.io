@@ -2,8 +2,8 @@ title:              Oskarin Projektit
 email:              oskari.vihonen@gmail.com
 description:        Oskarin projektisivut!
 author:             Oskari Vihonen
-baseurl:            "/"
-url:                "https://oskarivihonen.github.io"
+baseurl:            ""
+url:                ""
 
 # Social Profiles
 twitter_username:
