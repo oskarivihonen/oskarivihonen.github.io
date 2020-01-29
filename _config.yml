@@ -5,6 +5,8 @@ author:             Oskari Vihonen
 baseurl:            "/"
 url:                "https://oskarivihonen.github.io"
 
+theme: jekyll-theme-clean-blog
+
 # Social Profiles
 twitter_username:
 github_username:    oskarivihonen
@@ -14,10 +16,6 @@ linkedin_username:
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
-sass:
-  sass_dir: _sass
-  style: compressed
-  
 # Build settings
 markdown:           kramdown
 paginate:           5
